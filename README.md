@@ -1,5 +1,10 @@
 # WebRTCLearnings
 
+Open the root folder in the terminal and then type npm install(make sure you install npm)
+then after installing packages then type node index.js
+
+
+
  RTCDataChannel to exchange data(TextData):-
  
  use WebRTC data channels to send text between two textarea elements on the same page. 
